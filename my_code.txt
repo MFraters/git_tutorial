@@ -1,1 +1,3 @@
 Hello Git!
+
+I am in a Git repository now
